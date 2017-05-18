@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="component/ClockFieldPanel.java|main/MainFrame0.java|view/component/ClockFieldPanel.java|gui/component/ClockFieldPanel.java|viewmodel/IDrawer.java|view/component/ClockDrawDecorator.java|view/draw/ClockDrawDecorator.java|view/draw/ClockFieldPanel.java|view/draw/JPanel_Counter.java|view/draw/ImageGenerator.java|model/menu/MenuFactory.java|model/menu/MenuItem.java|model/menu/MenuList.java|model/menu/MenuController.java|view/utils/AnimationImages.java" kind="src" path="src"/>
+	<classpathentry kind="src" path="resouces"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
